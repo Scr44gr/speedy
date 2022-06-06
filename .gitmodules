@@ -1,0 +1,3 @@
+[submodule "speedy_frontend"]
+	path = speedy_frontend
+	url = ./speedy_client/speedy_frontend
